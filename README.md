@@ -1,0 +1,2 @@
+# penyimpanan
+simpan data
